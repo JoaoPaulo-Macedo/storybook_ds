@@ -1,3 +1,3 @@
 # storybook_ds
 
-Check in the [Exemplo](https://showroom-ds.web.app/#/).
+Check in the [Example](https://showroom-ds.web.app/#/).
